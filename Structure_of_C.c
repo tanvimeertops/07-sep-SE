@@ -1,4 +1,1 @@
-#include<stdio.h>
-int main(){
-    return 0;
-}
+7265855045

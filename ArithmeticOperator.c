@@ -1,6 +1,9 @@
 #include<stdio.h>
 /*
 +-/*%
+keyword are the special word whose meaning is already 
+specified by the c compiler
+32 keywords in c
 */
 int main(){
     int num1=20;
