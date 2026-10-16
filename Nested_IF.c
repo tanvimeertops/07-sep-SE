@@ -8,7 +8,7 @@ int main(){
         }else{
             printf("C is greater");
         }
-        printf("A is greater");
+        
     }else{
         if(b>c){
             printf("B is greater");
