@@ -12,7 +12,7 @@ int main(){
     printf("\nSum is %d",num1+num2);
     printf("\nSub is %d",num1-num2);
     printf("\n Multiply is %d",num1*num2);
-    printf("\n Division is %d",num1/num2);
+    printf("\n Division is %d",num1/0);
     
     printf("\nmod is %d",num1%num2);
     int N=1234;

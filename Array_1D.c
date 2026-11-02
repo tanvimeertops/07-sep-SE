@@ -8,8 +8,8 @@ int main(){
     // for(int i=0;i<5;i++){
     //      printf("\n%d",a[i]);
     // }
-    int marks[5]={34,56,84,59,23};
-    for(int i=0;i<5;i++){
+    int marks[]={34,56,84,59,23};
+    for(int i=0;i<6;i++){
          printf("\nMarks in subject %d is %d",i+1,marks[i]);
     }
    
