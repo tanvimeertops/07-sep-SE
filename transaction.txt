@@ -1,0 +1,2 @@
+Withdraw 1000
+deposite 10000deposite 10000

@@ -1,0 +1,12 @@
+WEEKLY STUDY REPORT
+
+ Day:1  0:Hours
+ Day:2  8:Hours
+ Day:3  4:Hours
+ Day:4  0:Hours
+ Day:5  6:Hours
+ Day:6  0:Hours
+ Day:7  0:Hours
+Total Hours: 18
+
+Average Hours: 2.57
